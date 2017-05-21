@@ -2,7 +2,7 @@ const express = require('express')
 const session = require('express-session')
 const bodyParser = require('body-parser')
 const FileStore = require('session-file-store')(session)
-
+const urlencodedParser = bodyParser.urlencoded({ extended: false });
 const products = require('./data/products.json')
 
 const app = express()
@@ -10,7 +10,7 @@ const PORT = 8000
 
 app.use(express.static('public'))
 
-app.use(bodyParser.urlencoded({ extended: false }))
+
 app.use(bodyParser.json())
 
 app.set('view engine', 'pug')
@@ -51,11 +51,28 @@ app.get('/', (req, res) => {
 
 
 
-//todo
+// ToDo wish List
+
+app.use(function(req, res, next){
+    if (typeof(req.session.todolist) == 'undefined') {
+        req.session.todolist = [];
+    }
+    next();
+})
+
 app.get('/todo', (req, res) => {
   res.render('todo/index')
 })
 
+app.post('/todo/add/', urlencodedParser, function(req, res) {
+    if (req.body.newtodo != '') {
+        req.session.todolist.push(req.body.newtodo);
+    }
+    res.redirect('/todo');
+})
+
+
+// End ToDo wish List
 
 app.post('/cart-native', (req, res) => {
   const { id, quantity } = req.body

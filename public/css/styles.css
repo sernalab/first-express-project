@@ -55,3 +55,17 @@ p span{
 .list-cart .item-name {
   font-size: 20px;
 }
+
+/*TODO*/
+
+#newtodo{
+  width: 200px;
+}
+
+.add-todo{
+  margin-top: 15px;
+}
+
+.bg-grey{
+  background-color: #c4c6c6;
+}

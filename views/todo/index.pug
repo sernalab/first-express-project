@@ -2,3 +2,14 @@ extends ../layout
 
 block content
 	h1 Complete your wish list:
+
+	.container
+	form(action='/todo/add', method='POST')
+		p 
+		label(for='newtodo') Insert item you wish
+		input#newtodo.form-control(type='text', name='newtodo')
+		input.btn.btn-succes.add-todo(type='submit')
+	ul
+		li
+			a(href='/todo/delete/')
+
