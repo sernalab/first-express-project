@@ -1,0 +1,178 @@
+[
+  {
+    "color": "Pink",
+    "productName": "iPhone 6",
+    "price": "649.00",
+    "product": "iPhone",
+    "image": "https://www.compareprix.in/images/resizeimages/product/128/iPhone%207%20Large.jpg?v=72",
+    "id": "123-iPhone-123-Pink"
+  },
+  {
+    "color": "Gold",
+    "productName": "iPhone 7",
+    "price": "759.00",
+    "productAdjective": "Intelligent",
+    "productMaterial": "Concrete",
+    "product": "iPhones",
+    "image": "https://i0.wp.com/smartworldkenya.com/wp-content/uploads/2016/09/Apple-iPhone-7-plus-1.jpg?fit=128%2C128",
+    "id": "456-iPhone-456-Gold"
+  },
+  {
+    "color": "Gold",
+    "productName": "iPhone 7 Plus",
+    "price": "907.00",
+    "productAdjective": "Small",
+    "productMaterial": "Fresh",
+    "product": "iPhone",
+    "image": "https://i0.wp.com/smartworldkenya.com/wp-content/uploads/2016/09/Apple-iPhone-7-plus-1.jpg?fit=128%2C128",
+    "id": "789-iPhone-789-Gold-Plus"
+  },
+  {
+    "color": "New Red",
+    "productName": "iPhone 7 Plus",
+    "price": "1000",
+    "productAdjective": "Generic",
+    "productMaterial": "Metal",
+    "product": "iPhone",
+    "image": "http://sdmobile.com.my/wp-content/uploads/2017/05/Red-128x128.jpg",
+    "id": "111-iPhone-111-Red-Plus"
+  },
+  {
+    "color": "Jet Black",
+    "productName": "iPhone 7",
+    "price": "759.00",
+    "productAdjective": "Gorgeous",
+    "productMaterial": "Plastic",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/APPLE-I-PHONE-7-Black-1-128x128.jpg",
+    "id": "231-iPhone-555-Jet-Black"
+  },
+  {
+    "color": "Black",
+    "productName": "iPhone 7",
+    "price": "759.00",
+    "productAdjective": "Fantastic",
+    "productMaterial": "Concrete",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/APPLE-I-PHONE-7-Black-1-128x128.jpg",
+    "id": "191-iPhone-131-Black"
+  },
+  {
+    "color": "Silver",
+    "productName": "iPhone 7 Plus",
+    "price": "1000.00",
+    "productAdjective": "Tasty",
+    "productMaterial": "Fresh",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/Apple-iPhone-7-Plus-Silver-128x128.jpg",
+    "id": "323-iPhone-123-Silver"
+  },
+  {
+    "color": "Silver",
+    "productName": "iPhone 128gb",
+    "price": "1200.00",
+    "productAdjective": "Gorgeous",
+    "productMaterial": "Steel",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/Apple-iPhone-7-Plus-Silver-128x128.jpg",
+    "id": "789-iPhone-789-Silver-Plus"
+  },
+  {
+    "color": "Black",
+    "productName": "iPhone",
+    "price": "987.00",
+    "productAdjective": "Unbranded",
+    "productMaterial": "Soft",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/APPLE-I-PHONE-7-Black-1-128x128.jpg",
+    "id": "222-iPhone-222-Black"
+  },
+  {
+    "color": "Pink",
+    "productName": "iPhone 6",
+    "price": "649.00",
+    "product": "iPhone",
+    "image": "https://www.compareprix.in/images/resizeimages/product/128/iPhone%207%20Large.jpg?v=72",
+    "id": "123-iPhone-123-Pink"
+  },
+  {
+    "color": "Gold",
+    "productName": "iPhone 7",
+    "price": "759.00",
+    "productAdjective": "Intelligent",
+    "productMaterial": "Concrete",
+    "product": "iPhones",
+    "image": "https://i0.wp.com/smartworldkenya.com/wp-content/uploads/2016/09/Apple-iPhone-7-plus-1.jpg?fit=128%2C128",
+    "id": "456-iPhone-456-Gold"
+  },
+  {
+    "color": "Gold",
+    "productName": "iPhone 7 Plus",
+    "price": "907.00",
+    "productAdjective": "Small",
+    "productMaterial": "Fresh",
+    "product": "iPhone",
+    "image": "https://i0.wp.com/smartworldkenya.com/wp-content/uploads/2016/09/Apple-iPhone-7-plus-1.jpg?fit=128%2C128",
+    "id": "789-iPhone-789-Gold-Plus"
+  },
+  {
+    "color": "New Red",
+    "productName": "iPhone 7 Plus",
+    "price": "1000",
+    "productAdjective": "Generic",
+    "productMaterial": "Metal",
+    "product": "iPhone",
+    "image": "http://sdmobile.com.my/wp-content/uploads/2017/05/Red-128x128.jpg",
+    "id": "111-iPhone-111-Red-Plus"
+  },
+  {
+    "color": "Jet Black",
+    "productName": "iPhone 7",
+    "price": "759.00",
+    "productAdjective": "Gorgeous",
+    "productMaterial": "Plastic",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/APPLE-I-PHONE-7-Black-1-128x128.jpg",
+    "id": "231-iPhone-555-Jet-Black"
+  },
+  {
+    "color": "Black",
+    "productName": "iPhone 7",
+    "price": "759.00",
+    "productAdjective": "Fantastic",
+    "productMaterial": "Concrete",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/APPLE-I-PHONE-7-Black-1-128x128.jpg",
+    "id": "191-iPhone-131-Black"
+  },
+  {
+    "color": "Silver",
+    "productName": "iPhone 7 Plus",
+    "price": "1000.00",
+    "productAdjective": "Tasty",
+    "productMaterial": "Fresh",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/Apple-iPhone-7-Plus-Silver-128x128.jpg",
+    "id": "323-iPhone-123-Silver"
+  },
+  {
+    "color": "Silver",
+    "productName": "iPhone 128gb",
+    "price": "1200.00",
+    "productAdjective": "Gorgeous",
+    "productMaterial": "Steel",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/Apple-iPhone-7-Plus-Silver-128x128.jpg",
+    "id": "789-iPhone-789-Silver-Plus"
+  },
+  {
+    "color": "Black",
+    "productName": "iPhone",
+    "price": "987.00",
+    "productAdjective": "Unbranded",
+    "productMaterial": "Soft",
+    "product": "iPhone",
+    "image": "http://cellmartonline.lk/wp-content/uploads/2016/11/APPLE-I-PHONE-7-Black-1-128x128.jpg",
+    "id": "222-iPhone-222-Black"
+  }
+]
