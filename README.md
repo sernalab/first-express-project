@@ -10,4 +10,6 @@ Project created with expres.js 4 and Pug.
 
 -----
 
+Don’t forget to do an ````npm install``` to install the dependencies before running it!
+
 Full Stack Web Development [Bootcamp](http://www.skylabcoders.com/es/).
